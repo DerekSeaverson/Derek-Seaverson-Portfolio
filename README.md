@@ -34,7 +34,7 @@ This portfolio consists of some of my personal projects that range from .NET API
 
 ### Wardford Keep
 > Wardford Keep is a side-scrolling 2D fighting game using melee and bow weapons. This project was created within the Unity platform using the C# language in collaboration with Visual Studio. 
-The project can be accessed [here] and downloaded to preview and play the game for yourself. 
+The project can be accessed [here](https://github.com/DerekSeaverson/WardfordKeep) and downloaded to preview and play the game for yourself. 
 
 I am more than happy to hear about any issues/bugs/improvements for the game as I intend to return to this class project and expand on it after progressing my current game project in my free time.
 
