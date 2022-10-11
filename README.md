@@ -40,7 +40,8 @@ I am more than happy to hear about any issues/bugs/improvements for the game as 
 
 ### Android Project(s)
 > This is a list of my current projects created within Android Studio as part of a class during college. These applications were programmed mostly with Java and touched on some other programming languages. 
-*This list will be updated accordingly once I began to upload and format each project that I feel could have some level of importance to my portfolio as we worked on a multitude of Android applications throughout the course of the class
+
+*This list will be updated accordingly once I began to upload and format each project that I feel could have some level of importance to my portfolio as we worked on a multitude of Android applications throughout the course of the class.*
 
 ### .NET API Website
 > My .NET API Website was a beginner website that I created with the function of the user being able to quickly retrieve all the current movies that contain any words/title that the user queries.
