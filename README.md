@@ -9,7 +9,7 @@
 
 This is a portfolio to make it easy to access all my personal projects and any other information that may be of use. 
 
-Please refer [here](/main) for information and progress on my most recent project that I am working on
+Please refer [here]() for information and progress on my most recent project that I am working on
 <!---
 DerekSeaverson/DerekSeaverson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
