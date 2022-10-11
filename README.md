@@ -29,7 +29,8 @@ This portfolio consists of some of my personal projects that range from .NET API
 
 ### Space Offensive
 > Space Offensive is a top-down 2D shooter created using the Godot application using the custom GDScript used within Godot. 
-*This project is my most recent project. It is in the beginning stages of programming and at a state in which I haven't uploaded any of the progress to Github yet. Once I have make a substancial jump in progress, I will update this section with the files for the game
+
+*This project is my most recent project. It is in the beginning stages of programming and at a state in which I haven't uploaded any of the progress to Github yet. Once I have make a substancial jump in progress, I will update this section with the files for the game.*
 
 ### Wardford Keep
 > Wardford Keep is a side-scrolling 2D fighting game using melee and bow weapons. This project was created within the Unity platform using the C# language in collaboration with Visual Studio. 
