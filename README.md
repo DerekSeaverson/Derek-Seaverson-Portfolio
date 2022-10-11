@@ -41,7 +41,9 @@ I am more than happy to hear about any issues/bugs/improvements for the game as 
 
 ### Maniacal Mages
 > Maniacal mages is a top-down 2D exploration game in which the player uses potions to try and survive and find the boss of all the mages in the region and exploring the castle. It was created within the GameMaker platform for a class project during college.
+
 *Although this project was a class submission, I intend to expand on the project in the future and would love any feedback/ideas as how I could expand the game to the next level.*
+
 The project can be accessed [here]() and downloaded to preview and play the game for yourself.
 
 ### Android Project(s)
