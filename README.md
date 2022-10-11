@@ -28,12 +28,23 @@ This portfolio consists of some of my personal projects that range from .NET API
 ## Project Specifics
 
 ### Space Offensive
+> Space Offensive is a top-down 2D shooter created using the Godot application using the custom GDScript used within Godot. 
+*This project is my most recent project. It is in the beginning stages of programming and at a state in which I haven't uploaded any of the progress to Github yet. Once I have make a substancial jump in progress, I will update this section with the files for the game
 
 ### Wardford Keep
+> Wardford Keep is a side-scrolling 2D fighting game using melee and bow weapons. This project was created within the Unity platform using the C# language in collaboration with Visual Studio. 
+The project can be accessed [here] and downloaded to preview and play the game for yourself. 
+
+I am more than happy to hear about any issues/bugs/improvements for the game as I intend to return to this class project and expand on it after progressing my current game project in my free time.
 
 ### Android Project(s)
+> This is a list of my current projects created within Android Studio as part of a class during college. These applications were programmed mostly with Java and touched on some other programming languages. 
+*This list will be updated accordingly once I began to upload and format each project that I feel could have some level of importance to my portfolio as we worked on a multitude of Android applications throughout the course of the class
 
 ### .NET API Website
+> My .NET API Website was a beginner website that I created with the function of the user being able to quickly retrieve all the current movies that contain any words/title that the user queries. 
+*This website was a simple project to learn the .NET functionality. It was originally a project when applying to a position while job searching, but as I love learning more, I have begun to expand on the project and take it to another level.*
+> The .NET API can be accessed [here]() and be downloaded to see if in progress.
 <!---
 DerekSeaverson/DerekSeaverson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
