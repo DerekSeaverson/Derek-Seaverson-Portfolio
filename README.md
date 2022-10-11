@@ -20,9 +20,9 @@ This portfolio consists of some of my personal projects that range from .NET API
 *This is an in progress list of my current projects as they are uploaded and properly formatted within GitHub.*
 
 * [Space Offensive](#space-offensive)
-* [Wardford Keep](#space-offensive)
-* [Android Project(s)]()
-* [.NET API Website]()
+* [Wardford Keep](#wardford-keep)
+* [Android Project(s)](#android-projects(s))
+* [.NET API Website](#.net-api-website)
 
 
 ## Project Specifics
