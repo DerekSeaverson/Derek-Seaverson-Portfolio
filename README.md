@@ -43,7 +43,8 @@ I am more than happy to hear about any issues/bugs/improvements for the game as 
 
 ### .NET API Website
 > My .NET API Website was a beginner website that I created with the function of the user being able to quickly retrieve all the current movies that contain any words/title that the user queries.
- *This website was a simple project to learn the .NET functionality. It was originally a project when applying to a position while job searching, but as I love learning more, I have begun to expand on the project and take it to another level.*
+
+*This website was a simple project to learn the .NET functionality. It was originally a project when applying to a position while job searching, but as I love learning more, I have begun to expand on the project and take it to another level.*
 > The .NET API can be accessed [here]() and be downloaded to see if in progress.
 <!---
 DerekSeaverson/DerekSeaverson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
