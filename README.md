@@ -9,7 +9,7 @@
 
 This is a portfolio to make it easy to access all my personal projects and any other information that may be of use. 
 
-Please refer [here]() for information and progress on my most recent project that I am working on.
+Please refer [here](#space-offensive) for information and progress on my most recent project that I am working on.
 
 ## About this Portfolio
 
