@@ -44,7 +44,7 @@ I am more than happy to hear about any issues/bugs/improvements for the game as 
 
 *Although this project was a class submission, I intend to expand on the project in the future and would love any feedback/ideas as how I could expand the game to the next level.*
 
-The project can be accessed [here]() and downloaded to preview and play the game for yourself.
+The project can be accessed [here](https://github.com/DerekSeaverson/Manical-Mages) and downloaded to preview and play the game for yourself.
 
 ### Android Project(s)
 > This is a list of my current projects created within Android Studio as part of a class during college. These applications were programmed mostly with Java and touched on some other programming languages. 
